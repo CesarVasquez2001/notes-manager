@@ -1,2 +1,2 @@
 # notes-manager-backend
-Application for the management of notes and categories, using SpringBoot
+Application for notes and categories management, using SpringBoot as backend.
